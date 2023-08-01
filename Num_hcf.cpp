@@ -1,4 +1,4 @@
-// A C/C++ Program to generate OTP (One Time Password)
+
 
 #include<bits/stdc++.h>
 using namespace std;
